@@ -2,7 +2,7 @@
 
 Moves Windows Shell Folders (e.g. Desktop, Documents, Downloads, etc) to another Path. Written in PowerShell.
 
-# Background
+## Background
 I developed this script because I mostly encounter laptops with a small SSD and a Hard Disk. Leaving shell folders in the default location might fill up the SSD storage easily. Sure, one can utilize save as, or custom download locations, but it is quite cumbersome. Defaulting storage of files to the slower storage like a Hard Disk Drive can help in prolonging the life of the computer's SSD storage.
 
 ## Usage
